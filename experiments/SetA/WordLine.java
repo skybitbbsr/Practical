@@ -1,0 +1,1 @@
+public class WordLine {    private String word;    private int count = 1;    public WordLine(String word){        this.word=word;    }    public int wordCount(){        for(int i = 0; i < word.length() - 1; i++) {            if ((word.charAt(i) == ' ') && (word.charAt(i + 1) != ' ')) {                count++;            }        }        return count;    }}

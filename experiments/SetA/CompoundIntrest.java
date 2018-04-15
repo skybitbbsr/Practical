@@ -1,0 +1,1 @@
+import java.util.Scanner;public class CompoundIntrest {    private int n = 4;    public double getCI(Values v) {        Scanner sc = new Scanner(System.in);        System.out.println("Compound Interest is calculated Quarterly");        double amt = v.p * Math.pow(1 + (v.r / n), n * v.t);        double interest = amt - v.p;        return interest;    }}

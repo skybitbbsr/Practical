@@ -1,0 +1,1 @@
+public class Book {    String title, isbn,pubName,year,pubDesig,pubOrg, pubCountry;    Author author[];    public Book(String title, String isbn, String pubName, String year,Author author[]) {        this.title=title;        this.isbn=isbn;        this.pubName=pubName;        this.year=year;        this.author=author;    }}

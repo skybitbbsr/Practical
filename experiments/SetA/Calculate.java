@@ -1,0 +1,1 @@
+public class Calculate {    public static void main(String[] args) {        IntrestUI iUI = new IntrestUI();        iUI.menu();    }}

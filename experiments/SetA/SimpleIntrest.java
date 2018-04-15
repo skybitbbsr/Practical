@@ -1,0 +1,1 @@
+public class SimpleIntrest {    public double getSI(Values v) {        return ((v.p * v.r * v.t) / 100);    }}
