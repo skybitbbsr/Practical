@@ -1,1 +1,1 @@
-public class InsufficientBlanaceException extends RuntimeException {    private static final long serialVersionUID = 1L;    public InsufficientBlanaceException(String cause) {        super(cause);    }}
+class InsufficientBalanceException extends RuntimeException {    private static final long serialVersionUID = 1L;    public InsufficientBalanceException(String cause) {        super(cause);    }}

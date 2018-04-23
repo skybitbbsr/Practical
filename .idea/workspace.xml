@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2a6c852-37d9-4a9b-827e-fa74ad723797" name="Default" comment="writing applet">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/Author.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/BookSelf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/CreateFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/Insert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/ReadFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/Search.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/Serializability.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practical/Student_Result_App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/AP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/APCircle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/APRectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/APRightAngle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/APSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/ArrayApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/ArrayOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/Banking.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/BankingCalculate$Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/BankingCalculate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/BankingPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/Calculate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/CircleApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/CircleMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/CompoundInterest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/CompoundIntrest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/EmployeeData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/EmployeeMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/Interest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/IntrestUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/MathApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/McqAnswer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/Score.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/SimpleIntrest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/SimpleMath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/StudentData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/StudentScore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/SumAux.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/SumMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/Tax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/TaxCalculate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/Values.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/Word.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/WordLine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/WordPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/experiments/WordSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdhaarSearchingApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAppWithException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HighCostPainter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsufficientBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LowCostPainter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaintMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Paintable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParallelExec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookSelf.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d2a6c852-37d9-4a9b-827e-fa74ad723797" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -141,8 +75,8 @@
       <file leaf-file-name="ParallelExec.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ParallelExec.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="468">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -587,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524482792223</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java SE expt 13 - 17. set B&#10;23.04.2018">
+      <created>1524486776788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524486776788</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -667,7 +608,8 @@
     <MESSAGE value="Upto date 15.04.2018" />
     <MESSAGE value="Writing in Applet added. 21.04.2018" />
     <MESSAGE value="expt 13 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="expt 13 added" />
+    <MESSAGE value="Java SE expt 13 - 17. set B&#10;23.04.2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java SE expt 13 - 17. set B&#10;23.04.2018" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1076,8 +1018,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ParallelExec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="468">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
