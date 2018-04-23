@@ -1,0 +1,1 @@
+public class InsufficientBlanaceException extends RuntimeException {    private static final long serialVersionUID = 1L;    public InsufficientBlanaceException(String cause) {        super(cause);    }}

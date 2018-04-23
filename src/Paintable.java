@@ -1,0 +1,1 @@
+public interface Paintable {    public double doPaint(double area);}

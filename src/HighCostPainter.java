@@ -1,0 +1,1 @@
+package paintedShapes.Painter;public class HighCostPainter implements paintedShapes.Painter.Paintable {    private double unitCost = 0;    public HighCostPainter() {        unitCost = 50.0;    }    public double getUnitCost() {        return unitCost;    }    public double doPaint(double area) {        return area * unitCost;    }}

@@ -1,1 +1,0 @@
-public class Author {    String pubDesig,pubOrg,pubCountry;    public Author(String pubDesig, String pubOrg, String pubCountry) {        this.pubDesig=pubDesig;        this.pubOrg=pubOrg;        this.pubCountry=pubCountry;    }}
