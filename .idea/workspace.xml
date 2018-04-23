@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2a6c852-37d9-4a9b-827e-fa74ad723797" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Practical/Author.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Practical/Book.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Practical/BookSelf.class" afterDir="false" />
@@ -52,8 +51,12 @@
       <change afterPath="$PROJECT_DIR$/out/production/experiments/WordLine.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/experiments/WordPalindrome.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/experiments/WordSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WritingApplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library_Author.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,25 +71,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Book.java">
+      <file leaf-file-name="WritingApplet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WritingApplet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="342">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WritingApplet.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/WritingApplet.java">
+      <file leaf-file-name="Library_Author.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Library_Author.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="18">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Author.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Author.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Library.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Library.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LibraryApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LibraryApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -104,6 +150,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>accountNum</find>
+      <find>add</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,10 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Banking.java" />
-        <option value="$PROJECT_DIR$/ap/src/Rectangle.java" />
-        <option value="$PROJECT_DIR$/ap/src/Square.java" />
-        <option value="$PROJECT_DIR$/ap/src/RightAngle.java" />
         <option value="$PROJECT_DIR$/ap/src/AreaP.java" />
         <option value="$PROJECT_DIR$/ap/src/APRectangle.java" />
         <option value="$PROJECT_DIR$/experiments/ArPerMenu/AP.java" />
@@ -152,7 +195,6 @@
         <option value="$PROJECT_DIR$/experiments/ArPerMenu/EmployeeData.java" />
         <option value="$PROJECT_DIR$/experiments/ArPerMenu/EmployeeMain.java" />
         <option value="$PROJECT_DIR$/src/BookLibrary.java" />
-        <option value="$PROJECT_DIR$/src/Book.java" />
         <option value="$PROJECT_DIR$/src/BookSelf.java" />
         <option value="$PROJECT_DIR$/src/Author.java" />
         <option value="$PROJECT_DIR$/src/Student_Result_App.java" />
@@ -167,6 +209,11 @@
         <option value="$PROJECT_DIR$/src/Insert.java" />
         <option value="$PROJECT_DIR$/src/First.java" />
         <option value="$PROJECT_DIR$/src/WritingApplet.java" />
+        <option value="$PROJECT_DIR$/src/LibraryAuthor.java" />
+        <option value="$PROJECT_DIR$/src/Class_Book.java" />
+        <option value="$PROJECT_DIR$/src/Book.java" />
+        <option value="$PROJECT_DIR$/src/Library.java" />
+        <option value="$PROJECT_DIR$/src/LibraryApp.java" />
       </list>
     </option>
   </component>
@@ -213,8 +260,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +276,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -271,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.WritingApplet">
+  <component name="RunManager" selected="Application.LibraryApp">
     <configuration name="First" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="First" />
       <module name="Practical" />
@@ -280,13 +327,13 @@
       <option name="MAIN_CLASS_NAME" value="WritingApplet" />
       <module name="Practicals" />
     </configuration>
-    <configuration name="CreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreateFile" />
-      <module name="Practical" />
-    </configuration>
     <configuration name="Insert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Insert" />
       <module name="Practical" />
+    </configuration>
+    <configuration name="LibraryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LibraryApp" />
+      <module name="Practicals" />
     </configuration>
     <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReadFile" />
@@ -417,19 +464,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Application.CreateFile" />
       <item itemvalue="Application.ReadFile" />
       <item itemvalue="Application.Insert" />
       <item itemvalue="Applet.First" />
       <item itemvalue="Applet.WritingApplet" />
+      <item itemvalue="Application.LibraryApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryApp" />
         <item itemvalue="Applet.WritingApplet" />
         <item itemvalue="Applet.First" />
         <item itemvalue="Application.Insert" />
         <item itemvalue="Application.ReadFile" />
-        <item itemvalue="Application.CreateFile" />
       </list>
     </recent_temporary>
   </component>
@@ -464,29 +511,36 @@
       <option name="project" value="LOCAL" />
       <updated>1523807491970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Writing in Applet added. 21.04.2018">
+      <created>1524319224500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524319224500</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="25408000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49394855" weight="0.31862745" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50292826" side_tool="true" weight="0.3215434" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3283582" />
-      <window_info anchor="right" x="486" y="46" width="393" height="645" id="Run" order="10" sideWeight="0.5060514" side_tool="true" visible="true" weight="0.52874434" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3279743" />
+      <window_info anchor="right" x="486" y="46" width="393" height="645" id="Run" order="10" sideWeight="0.5060514" side_tool="true" weight="0.52874434" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16868381" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1709531" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info id="UI Designer" order="4" />
@@ -494,28 +548,29 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39869282" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49394855" weight="0.31862745" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Designer" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" x="486" y="46" width="393" height="645" id="Run" order="10" sideWeight="0.5060514" side_tool="true" weight="0.57564294" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16187595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info id="Image Layers" order="6" />
-      <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
@@ -524,7 +579,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39869282" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50292826" side_tool="true" weight="0.32440946" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -541,7 +596,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upto date 15.04.2018" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upto date 15.04.2018" />
+    <MESSAGE value="Writing in Applet added. 21.04.2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="Writing in Applet added. 21.04.2018" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -553,41 +609,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/experiments/SetA/Values.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/experiments/experiments.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/experiments/SetA/SumMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/experiments/SetA/SumAux.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/experiments/SetA/TaxCalculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/experiments/SetA/Tax.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -795,13 +816,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BookTrans.java" />
-    <entry file="file://$PROJECT_DIR$/src/Author.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BookSelf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -869,19 +883,68 @@
     <entry file="file://$PROJECT_DIR$/src/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/experiments/WordPalindrome.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WritingApplet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="342">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Library_Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
