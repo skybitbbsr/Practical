@@ -1,0 +1,1 @@
+public class BallRunnableMain {    public static void main(String[] args) {        Runnable r = new MyRunnable();        Thread t=new Thread((java.lang.Runnable) r);        t.start();    }}

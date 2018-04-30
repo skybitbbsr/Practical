@@ -1,0 +1,1 @@
+import java.awt.*;class BallRunnable implements Runnable {    public void run() {        try {            for (int i=1;i<=STEPS;i++) {                ball.move(Component.getBounds());                Component.repaint();                Thread.sleep(DELAY);            }        } catch(Exception e) {            System.out.println(e);        }    }}
